@@ -1,4 +1,4 @@
-const moduleName = 'b1';
+const moduleName = 'MODULE B1';
 const moduleSystemType = 'CommonJS';
 
 console.log(moduleName, moduleSystemType);

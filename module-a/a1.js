@@ -1,4 +1,4 @@
-const moduleName = 'a1';
+const moduleName = 'MODULE A1';
 const moduleSystemType = 'ECMAScript';
 
 console.log(moduleName, moduleSystemType);
